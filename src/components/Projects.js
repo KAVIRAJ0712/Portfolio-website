@@ -12,7 +12,7 @@ const Projects = () => (
         <ProjectCard
           title="Portfolio Website"
           description="A personal portfolio showcasing my skills and projects."
-          link="https://example.com/ecommerce"
+          link="https://github.com/KAVIRAJ0712/Portfolio-website"
           image="/images/Screenshot1.png"
         />
         <ProjectCard
