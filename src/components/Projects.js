@@ -22,10 +22,11 @@ const Projects = () => (
           image="/images/Screenshort.png"
         />
         <ProjectCard
-          title="E-Commerce Platform"
-          description="A fully functional e-commerce website built with React and Node.js."
-          link="https://example.com/portfolio"
-          image="https://colorlib.com/wp/wp-content/uploads/sites/2/coloshop-free-bootstrap-ecommerce-website-template.jpg"
+          title="Grocery Store"
+          description="Fresh finds and friendly faces,
+Your neighborhood grocery place! "
+          link="https://github.com/KAVIRAJ0712/pantry-to-pixel-market"
+          image="/images/Screenshot2.png"
         />
       </div>
     </div>
