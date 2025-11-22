@@ -16,10 +16,10 @@ const Projects = () => (
           image="/images/Screenshot1.png"
         />
         <ProjectCard
-          title="CLI-Weather-App"
-          description="Get real-time weather updates right from your terminal!"
-          link="https://github.com/KAVIRAJ0712/CLI-Weather-App"
-          image="/images/Screenshort.png"
+          title="Weather-app"
+          description="Get real-time weather updates right from your website"
+          link="https://github.com/KAVIRAJ0712/Weather-app"
+          image="/images/Screenshot3.png"
         />
         <ProjectCard
           title="Grocery Store"
