@@ -10,9 +10,9 @@ const Projects = () => (
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <ProjectCard
-          title="Portfolio Website"
-          description="A personal portfolio showcasing my skills and projects."
-          link="https://github.com/KAVIRAJ0712/Portfolio-website"
+          title="Learning app UI design"
+          description="Empowering learners with clear, engaging, and intuitive course experiences designed for growth."
+          link="https://www.figma.com/design/8wHu8mwP42y7VMuEwdmu5x/Untitled?node-id=0-1&p=f&t=dMtCOekX6O0eAXm1-0"
           image="/images/Screenshot1.png"
         />
         <ProjectCard
