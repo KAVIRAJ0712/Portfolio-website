@@ -22,10 +22,9 @@ const Projects = () => (
           image="/images/Screenshot3.png"
         />
         <ProjectCard
-          title="Grocery Store"
-          description="Fresh finds and friendly faces,
-Your neighborhood grocery place! "
-          link="https://github.com/KAVIRAJ0712/pantry-to-pixel-market"
+          title="Facial-reaction"
+          description="Caught in a natural reaction moment."
+          link="https://github.com/KAVIRAJ0712/Facial-reaction"
           image="/images/Screenshot2.png"
         />
       </div>
